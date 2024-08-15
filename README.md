@@ -23,6 +23,6 @@ A fun and engaging space-themed game built using Python and Pygame. Navigate you
 1. **Clone the repository:**
 
    ```bash
-   git clone https://vatsshubham100/yourusername/Python-Space-Game.git
+   git clone https://github.com/vatsshubham100/Python-Space-Game
    cd Python-Space-Game
 
